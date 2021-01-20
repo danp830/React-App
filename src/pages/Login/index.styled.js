@@ -12,4 +12,9 @@ export const Container = styled.div`
   background-color: ${colors.lightGreenColor};
   width: 30%;
   border-radius: 15px;
+  padding: 20px 50px;
+`;
+
+export const InputContainer = styled.div`
+  margin-bottom: 20px;
 `;
